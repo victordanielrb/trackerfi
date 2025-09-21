@@ -1,4 +1,4 @@
-# TrackFi
+# TrackerFi
 
 
 ### � Dores do Cliente
@@ -7,9 +7,9 @@
 - Falta de integração com cotações em tempo real e informações confiáveis para tomada de decisão.
 - Insegurança para investidores iniciantes e falta de ferramentas avançadas para investidores experientes.
 
-### 🛠 Como o TrackFi Soluciona
+### 🛠 Como o TrackerFi Soluciona
 
-O TrackFi oferece ferramentas intuitivas para registro, acompanhamento e análise de portfólio, facilitando o controle dos ativos, integra cotações em tempo real e dados de mercado de fontes confiáveis para apoiar decisões financeiras seguras, e proporciona recursos de segurança (autenticação 2FA, criptografia), além de funcionalidades avançadas para investidores experientes e suporte educacional para iniciantes.
+O TrackerFi oferece ferramentas intuitivas para registro, acompanhamento e análise de portfólio, facilitando o controle dos ativos, integra cotações em tempo real e dados de mercado de fontes confiáveis para apoiar decisões financeiras seguras, e proporciona recursos de segurança (autenticação 2FA, criptografia), além de funcionalidades avançadas para investidores experientes e suporte educacional para iniciantes.
 
 
 ## Objetivo
