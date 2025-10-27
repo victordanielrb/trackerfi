@@ -18,7 +18,7 @@ O TrackerFi oferece ferramentas intuitivas para registro, acompanhamento e anál
 
 | RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME) | DESCRIÇÃO APRIMORADA | STATUS |
 |------|--------|------------|------|-------------------|----------------------|--------|
-| 1 | 1 | Alta | 1 | Cadastro e Login Seguro | Como usuário, quero me cadastrar e fazer login com e-mail/senha ou conta Google, com autenticação 2FA, para acessar o app com segurança. | ⏳ |
+| 1 | 1 | Alta | 1 | Cadastro e Login Seguro | Como usuário, quero me cadastrar e fazer login com e-mail/senha , com autenticação 2FA, para acessar o app com segurança. | ⏳ |
 | 2 | 1 | Alta | 2 | Configuração de Perfil | Como usuário, quero configurar moeda fiduciária padrão, idioma e preferências de notificação para personalizar minha experiência. | ⏳ |
 | 3 | 1 | Alta | 3 | Acompanhar Portfólio | Como usuário, quero registrar carteiras e ter acesso ao desempenho do portfólio e dos ativos presentes  (quantidade, preço, data) | ⏳ |
 | 4 | 1 | Alta | 4 | Visualizar Desempenho de Ativos | Como usuário, quero ver o desempenho individual de cada ativo, com variação percentual e valor atual. | ⏳ |
