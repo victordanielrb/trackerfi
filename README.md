@@ -26,14 +26,14 @@ O TrackerFi oferece ferramentas intuitivas para registro, acompanhamento e anál
 | 6 | 2 | Alta | 6 | Cotações em Tempo Real | Como usuário, quero acompanhar preços atualizados de Bitcoin, Ethereum e outras altcoins, com atualização constante. | ✅️ |
 | 7 | 2 | Média | 7 | Índices Globais de Criptomoedas | Como usuário, quero visualizar índices como Crypto Market Cap, dominância e volume de negociação. | ✅️ |
 | 8 | 2 | Média | 9 | Resumo do Portfólio | Como usuário, quero ver saldo total, saldo dos ativos e valorização/desvalorização percentual. | ✅️ |
-| 9 | 3 | Média | 8 | Gráficos Interativos | Como usuário, quero analisar gráficos com histórico em minutos, horas, dias e meses, aplicando indicadores técnicos (RSI, médias móveis, Bollinger). | ⏳️ |
+| 9 | 3 | Média | 8 | Gráficos Interativos | Como usuário, quero analisar gráficos com histórico em minutos, horas, dias e meses, aplicando indicadores técnicos (RSI, médias móveis, Bollinger). | ✅️ |
 | 10 | 3 | Média | 10 | Alertas Personalizados | Como usuário, quero configurar alertas para variações de preço, rompimento de suportes/resistências e mudanças de volume. |⏳️ |
 | 11 | 3 | Média | 11 | Notícias e Análises de Mercado | Como usuário, quero acessar notícias e análises de fontes confiáveis sobre tendências e regulamentações. | ⏳️ |
-| 12 | 3 | Média | 12 | Listas de Observação | Como usuário, quero criar listas para monitorar moedas de interesse. | ⏳️ |
+| 12 | 3 | Média | 12 | Listas de Observação | Como usuário, quero criar listas para monitorar moedas de interesse. |✅️|
 | 13 | 3 | Baixa | 13 | Modo Educacional | Como usuário, quero acessar conteúdos sobre blockchain, segurança digital e boas práticas de investimento. | ✅️ |
 | 14 | 3 | Baixa | 14 | Conversão Automática de Moedas | Como usuário, quero converter valores para diferentes moedas fiduciárias (BRL, USD, EUR) instantaneamente. | ✅️ |
 | 15 | 3 | Baixa | 15 | Exportação de Relatórios | Como usuário, quero exportar relatórios detalhados em PDF ou planilhas com histórico de operações e evolução patrimonial. | ⏳️ |
-| 16 | 3 | Baixa | 16 | Compartilhamento de Resultados | Como usuário, quero compartilhar desempenho da carteira ou gráficos em redes sociais e apps de mensagens. |⏳️ |
+| 16 | 3 | Baixa | 16 | Compartilhamento de Resultados | Como usuário, quero compartilhar desempenho da carteira ou gráficos em redes sociais e apps de mensagens. |✅️|
 
 
 ---
