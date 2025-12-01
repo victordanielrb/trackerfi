@@ -1,5 +1,9 @@
 # TrackerFi
 
+### Repositórios
+
+## Front-End [https://github.com/victordanielrb/trackerfi-front]
+## Back-End [https://github.com/victordanielrb/trackerfi-back]
 
 ### � Dores do Cliente
 
